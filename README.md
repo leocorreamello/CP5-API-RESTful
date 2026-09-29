@@ -193,3 +193,20 @@ docs/evidencias            # prints do Swagger
 ## Evidências de teste
 
 Prints do Swagger com cada endpoint funcionando: pasta [docs/evidencias](docs/evidencias).
+</br>GET:
+<img width="1582" height="981" alt="GetAutores" src="https://github.com/user-attachments/assets/c13c0062-d28b-4d50-bf2c-592b044f6599" />
+
+</br>GET{id}:
+<img width="1582" height="981" alt="GetIDAutores" src="https://github.com/user-attachments/assets/5fdef82c-2a5c-43ff-8e1c-4e292a21f5b1" />
+
+</br>PUT:
+<img width="1582" height="981" alt="PutAutores" src="https://github.com/user-attachments/assets/e21264b5-03e0-4418-bcf5-cdd80a27279d" />
+
+</br>POST:
+<img width="1582" height="981" alt="PostAutores" src="https://github.com/user-attachments/assets/bd5b20dd-a223-4c79-93a0-8d2a29031507" />
+
+</br>DEL:
+<img width="1582" height="981" alt="DeleteAutores" src="https://github.com/user-attachments/assets/d90ca595-3548-4aaa-972e-5599ae69a8d2" />
+
+
+
